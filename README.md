@@ -1,1 +1,1 @@
-# GALGO REPOSITORY HAS MOVED TO https://harpomaxx.github.com/GSgalgoR/
+# GALGO REPOSITORY HAS MOVED TO https://github.com/harpomaxx/GSgalgoR/
